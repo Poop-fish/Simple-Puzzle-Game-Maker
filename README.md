@@ -77,7 +77,7 @@ interact_with_tile: Handles interactions with tiles like picking up coins, openi
 GenerateParticles and RenderParticles: Handle the creation and rendering of visual effects such as particles when the player interacts with objects in the game world.
 DisplayMessage: Shows messages like "Stage Complete" or "Game Over" along with the player's performance rating.
 
-###Assets:
+### Assets
 The game loads images and sounds stored in the assets directory, including player and item sprites, sound effects, and background music.
 
 ## Tilemap System

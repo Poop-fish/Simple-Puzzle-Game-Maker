@@ -9,7 +9,7 @@ Gif Sprite made by \\ https://gibbongl.itch.io/ 👈 the blue moneky (currtly be
 
 Pixel Fruits Made By  - https://biscuitlocker.itch.io/
 
-Rest of the Asset , like the MP3 files , tiles , some player PNGs and objects
+i made the Rest of the Asset , like the MP3 files , tiles , some player PNGs and objects 
 
 # Puzzle Game Maker
 Overview :

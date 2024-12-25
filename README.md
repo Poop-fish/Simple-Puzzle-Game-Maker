@@ -1,7 +1,8 @@
 ### download the ZIP file \ Everthing should be in there \ Feel Free to do whatever with the code
 ### Coded with Python \ Pygame
 👉 pip install pyagme 👈
-
+i did not make all the Assest but they are comercial free , i did make alot of them though like tiles and some PNGs for the player 
+Gif Sprite made by \\ https://gibbongl.itch.io/ 👈 the blue moneky (currtly being unused but is in assets)
 # Puzzle Game Maker
 Overview :
 Welcome to the Puzzle Game! This game allows you to create your own custom puzzle levels using a built-in Tilemap Maker. The game itself is designed so that all objects and tiles are hard-coded, so you only need to focus on creating your own levels by arranging tiles and saving the map data in a JSON format.

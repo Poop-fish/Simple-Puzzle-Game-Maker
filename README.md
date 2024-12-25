@@ -28,7 +28,7 @@ If you need to adjust the layout of tiles or objects, you can do so by modifying
 Tile Map Maker will only save on map file at a time so make new one and savig will overright old one so make sure you have already copy and paste it into the maps.
 
  # Files
-|PuzzleGame_Maker Folder \ or Your Main Folder
+├──PuzzleGame_Maker Folder \ or Your Main Folder
 │
 ├── Assets/                  
 │   ├── icons              

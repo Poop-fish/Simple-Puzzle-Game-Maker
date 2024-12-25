@@ -13,8 +13,8 @@ Pixel Fruits Made By  - https://biscuitlocker.itch.io/
 i made the Rest of the Asset , like the MP3 files , tiles , some player PNGs and objects 
 
 # Puzzle Game Maker
-Overview :
 Welcome to the Puzzle Game! This game allows you to create your own custom puzzle levels using a built-in Tilemap Maker. The game itself is designed so that all objects and tiles are hard-coded, so you only need to focus on creating your own levels by arranging tiles and saving the map data in a JSON format.
+
 ### Pros and Cons 
 this is super bare bones, that being said it has minimal mechanics and A decent amount of bugs.
 i never planned on releasing this but i would rather let peoole use it then gather dust in my computer. 

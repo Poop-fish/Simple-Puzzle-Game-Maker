@@ -1,4 +1,4 @@
-### download the ZIP file \ Everthing should be in there \ Feel Free to do whatever with the code
+### Download the ZIP file \ Everthing should be in there \ Feel Free to do whatever with the code
 
 ### Coded with Python \ Pygame
 👉 pip install pyagme 👈

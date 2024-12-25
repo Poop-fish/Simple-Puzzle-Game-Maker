@@ -34,7 +34,7 @@ Tile Map Maker will only save on map file at a time so make new one and savig wi
 # Puzzle Game OverView
 This is a simple Puzzle Game built using Pygame, where players navigate a character through various puzzle levels. The game supports custom levels, basic player interaction, and a particle system for effects. The game includes multiple levels, inventory management (coins and keys), and a rating system based on player performance.
 
-## for Heading Key Features
+## Key Features
 Multiple Levels: Navigate through different puzzle maps, each with unique obstacles and challenges.
 Player Interaction: Players can interact with tiles to collect items (coins, keys) or trigger events.
 Particle Effects: Visual effects such as explosions or animations when interacting with the game world.
@@ -63,23 +63,22 @@ Responsible for generating and rendering particles to create visual effects like
 Screens and UI: Puzzle_Game_Screens.py
 Includes functions to display messages (e.g., "Stage Complete", "Game Over") and show the player's inventory status (coins, keys, deaths).
 
-Game Variables:
-WIDTH and HEIGHT: The dimensions of the game window.
-TILE_SIZE: Size of each tile in the game grid.
-FPS: The frame rate (frames per second).
+## Dev Mode
 DEV_MODE: If enabled, allows the player to move between levels using the Q and E keys.
-Game Logic:
+
+## Game Logic
 The game progresses through different maps, with the player's goal being to collect all the coins while avoiding death. The CalculateStarRating function determines the player's performance, giving 3 stars for a perfect run (no deaths and all coins collected), 2 stars for all coins but some deaths, and 1 star for incomplete runs.
 
-Key Functions:
+## Key Functions
 RunPuzzleGame: Initializes the game and runs the main game loop.
 ResetGameState: Resets the game state (e.g., player position, inventory, map, etc.) after a death or level transition.
 UpdateMovingObjects: Updates the position and direction of any moving objects in the game world.
 interact_with_tile: Handles interactions with tiles like picking up coins, opening doors with keys, etc.
 GenerateParticles and RenderParticles: Handle the creation and rendering of visual effects such as particles when the player interacts with objects in the game world.
 DisplayMessage: Shows messages like "Stage Complete" or "Game Over" along with the player's performance rating.
-Assets:
+
+###Assets:
 The game loads images and sounds stored in the assets directory, including player and item sprites, sound effects, and background music.
 
-Tilemap System:
+## Tilemap System
 Levels are designed using a grid-based tilemap system where each map is represented as a grid of tiles. Moving objects, like enemies or obstacles, are represented with specific values in the tilemap, and their movement is updated each fram

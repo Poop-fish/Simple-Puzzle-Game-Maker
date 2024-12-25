@@ -4,7 +4,8 @@
 👉 pip install pyagme 👈
 
 ### Asset Authors 
-i did not make all the Assest but they are comercial free , i did make alot of them though like tiles and some PNGs for the player 
+i did not make all the Assest but they are comercial free 
+
 Gif Sprite made by \\ https://gibbongl.itch.io/ 👈 the blue moneky (currtly being unused but is in assets)
 
 Pixel Fruits Made By  - https://biscuitlocker.itch.io/

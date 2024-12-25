@@ -26,3 +26,18 @@ The tile types and objects used in the Tilemap Maker correspond to hard-coded va
 If you need to adjust the layout of tiles or objects, you can do so by modifying the map in the Tilemap Maker and re-saving the JSON file.
 
 Tile Map Maker will only save on map file at a time so make new one and savig will overright old one so make sure you have already copy and paste it into the maps.
+
+ # Files
+|PuzzleGame_Maker Folder \ or Your Main Folder
+│
+├── Assets/                  
+│   ├── icons              
+│   └── PNG 
+│   └──  Fonts   
+│
+├── Puzzle_Game_Main.py         
+├── Puzzle_Game_Player.py  
+├── Puzzle_Game_Particle_System.py  
+├── Puzzle_Game_Screens.py  
+├── Puzzle_Game_Player.py  
+└── Tiled_Map_Editor.py               

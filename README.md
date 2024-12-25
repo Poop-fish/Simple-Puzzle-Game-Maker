@@ -1,13 +1,18 @@
-### download the ZIP file \ Everthing should be in there
+### download the ZIP file \ Everthing should be in there \ Feel Free to do whatever with the code
 
 # Puzzle Game Maker
 Overview :
 Welcome to the Puzzle Game! This game allows you to create your own custom puzzle levels using a built-in Tilemap Maker. The game itself is designed so that all objects and tiles are hard-coded, so you only need to focus on creating your own levels by arranging tiles and saving the map data in a JSON format.
-
+### Pros and Cons 
+this is super bare bones, that being said it has minimal mechanics and A decent amount of bugs.
+i never planned on releasing this but i would rather let peoole use it then gather dust in my computer. 
+that beibg said it is super simple and easy to use (at lease for me)
 
 # How to Create and Integrate Maps
 Use the Tilemap Maker
-The game provides a Tilemap Maker that allows you to design your own puzzle maps. The Tilemap Maker has a user-friendly interface for selecting and placing tiles, which represent different elements in the game world (such as walls, floors, obstacles, etc.).
+The game provides a Tilemap Maker that allows you to design your own puzzle maps. The Tilemap Maker has a user-friendly interface for selecting and placing tiles, which represent different elements in the game world (such as walls, floors, obstacles, etc.). 
+when the player reaches last map and completes it , the game over state will be triggered. 
+so you can make alot of maps. 
 
 # Saving the Map
 Once you've designed your map, save it in the JSON format. The Tilemap Maker will automatically generate this JSON file based on your map design.

@@ -34,7 +34,7 @@ Tile Map Maker will only save on map file at a time so make new one and savig wi
 # Puzzle Game OverView
 This is a simple Puzzle Game built using Pygame, where players navigate a character through various puzzle levels. The game supports custom levels, basic player interaction, and a particle system for effects. The game includes multiple levels, inventory management (coins and keys), and a rating system based on player performance.
 
--Key Features
+## for Heading Key Features
 Multiple Levels: Navigate through different puzzle maps, each with unique obstacles and challenges.
 Player Interaction: Players can interact with tiles to collect items (coins, keys) or trigger events.
 Particle Effects: Visual effects such as explosions or animations when interacting with the game world.

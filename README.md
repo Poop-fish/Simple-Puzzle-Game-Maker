@@ -48,19 +48,19 @@ time: For handling timing-related events, such as pauses and frame rates.
 Game Structure
 The game is structured with multiple modules that handle different aspects of the game logic:
 
-Main Script: game.py
+### Main Script: game.py
 The primary file that runs the game. It sets up the Pygame window, initializes game states, loads assets, and contains the main game loop.
 
-Maps:
+### Maps:
 Maps are defined and handled in the Puzzle_Game_Maps module. Each level is represented as a function (e.g., Starting_Map, Map_1, Map_2, etc.), and they return a tilemap layout when called.
 
-Player: Puzzle_Game_Player.py
+### Player: Puzzle_Game_Player.py
 Handles player movement and interactions with the map. The move_player function moves the player based on user input, while interact_with_tile checks for interactions with tiles (e.g., collecting items, triggering events).
 
-Particle System: Puzzle_Game_Particle_System.py
+### Particle System: Puzzle_Game_Particle_System.py
 Responsible for generating and rendering particles to create visual effects like explosions or animations when events occur.
 
-Screens and UI: Puzzle_Game_Screens.py
+### Screens and UI: Puzzle_Game_Screens.py
 Includes functions to display messages (e.g., "Stage Complete", "Game Over") and show the player's inventory status (coins, keys, deaths).
 
 ## Dev Mode
@@ -80,5 +80,5 @@ DisplayMessage: Shows messages like "Stage Complete" or "Game Over" along with t
 ### Assets
 The game loads images and sounds stored in the assets directory, including player and item sprites, sound effects, and background music.
 
-## Tilemap System
+### Tilemap System
 Levels are designed using a grid-based tilemap system where each map is represented as a grid of tiles. Moving objects, like enemies or obstacles, are represented with specific values in the tilemap, and their movement is updated each fram
